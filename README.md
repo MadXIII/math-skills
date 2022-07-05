@@ -12,7 +12,7 @@ To run this project
 $ cd math-skills
 $ go run main.go data.txt
 ```
-## Thanks for you attention
+## Thanks for your attention
 
 
 
